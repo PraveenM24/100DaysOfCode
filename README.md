@@ -10,7 +10,7 @@ I have decided to learn MERN stack (MongoDB, Express.js, React, Node.js)</p>
   <p>Day 51 - 75  : React </p> 
   <p>Day 76 - 100 : MongoDB </p> 
 
-___
+<br/>
 
 ###### Softwares
 
@@ -18,7 +18,7 @@ ___
 
 * <a href="https://atom.io/">Atom</a>
 
-___
+<br/>
 
 ###### Tutorials & Materials
 
