@@ -15,6 +15,6 @@ I have decided to learn MERN stack (MongoDB, Express, React, Node.js)</p>
 <br/>
 <b>Tutorials & Materials:</b><br/>
 <b>Node.js:</b><br>
-<p>* <a href="https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp">The Net Ninja</a></p>
-<p>* <a href="https://github.com/iamshaunjp/node-js-playlist">Github Repo</a></p>
+<p>* <a href="https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp">The Net Ninja</a>
+   * <a href="https://github.com/iamshaunjp/node-js-playlist">Github Repo</a></p>
 
