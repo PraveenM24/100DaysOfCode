@@ -1,0 +1,16 @@
+Day 1:  September 23, 2020 / Node.js 
+
+Today's Progress:
+
+* Since I have no prior knowledge in Node.js, started with some basics of it.
+* Watched tutorials on:
+    - What is Node.js? 
+    - How Node.js works? 
+    - What is a V8 engine?
+    - Setting up atom & installing 'platformio-ide-terminal' package.
+    - Global objects in Node.js
+    - Function Expressions 
+
+Source: (The Net Ninja - Youtube)
+
+Link: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg 
