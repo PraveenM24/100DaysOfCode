@@ -1,7 +1,7 @@
 # 100DaysOfCode
 
 <p>This is a self-challenge taken to commit myself to learn something new for the next hundred days.
-I have decided to learn MERN stack (MongoDB, Express, React, Node.js)</p>
+I have decided to learn MERN stack (MongoDB, Express.js, React, Node.js)</p>
 <br/>
 <b>Roadmap:</b><br/>
   <p>Day 1  - 25  : Node.js </p> 
