@@ -5,7 +5,7 @@ I have decided to learn MERN stack (MongoDB, Express, React, Node.js)</p>
 <br/>
 <b>Roadmap:</b><br/>
   <p>Day 1  - 25  : Node.js </p> 
-  <p>Day 26 - 50  : Express </p> 
+  <p>Day 26 - 50  : Express.js </p> 
   <p>Day 51 - 75  : React </p> 
   <p>Day 76 - 100 : MongoDB </p> 
 <br/>
