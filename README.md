@@ -13,7 +13,7 @@ I have decided to learn MERN stack (MongoDB, Express, React, Node.js)</p>
 <b>Node.js:</b>
 <p>* <a href="https://atom.io/">Atom</a></p>
 <br/>
-<b>Tutorials & Materials:</b> <br/><br/>
+<b>Tutorials & Materials:</b><br/>
 <b>Node.js:</b><br>
 <p>* <a href="https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp">The Net Ninja</a></p>
 
