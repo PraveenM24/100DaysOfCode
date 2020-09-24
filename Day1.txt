@@ -1,0 +1,8 @@
+Day 1: September 23, 2020 / Node.js 
+
+Today's Progress:
+* Since I have no prior knowledge in Node.js, started with some basic of it.
+
+* Watched tutorials on:
+    - What is Node.js?
+    - Setting up atom  
