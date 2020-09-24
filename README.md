@@ -2,10 +2,11 @@
 
 This is a self-challenge taken to commit myself to learn something new for the next hundred days.
 I have decided to learn MERN stack (MongoDB, Express, React, Node.js)
-
-Roadmap:
- *Day 1  - 25  : Node.js
- *Day 26 - 50  : Express
- *Day 51 - 75  : React 
- *Day 76 - 100 : MongoDB
+<br/>
+<br/>
+<b>Roadmap:</b><br/>
+ *Day 1  - 25  : Node.js<br/>
+ *Day 26 - 50  : Express<br/>
+ *Day 51 - 75  : React <br/>
+ *Day 76 - 100 : MongoDB<br/>
 
