@@ -15,7 +15,7 @@ I have decided to learn MERN stack (MongoDB, Express.js, React, Node.js)</p>
 
 ###### Softwares
 
-##### Node.js:
+##### Node.js / Vue.js:
 
 * <a href="https://atom.io/">Atom</a>
 
@@ -25,8 +25,14 @@ I have decided to learn MERN stack (MongoDB, Express.js, React, Node.js)</p>
 
 ##### Node.js:
 
-
- * <a href="https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp">The Net Ninja</a>
  * <a href="https://github.com/iamshaunjp/node-js-playlist">Github Repo</a>
- * <a href="https://nodejs.org/api/">Node.js Documentation</a>
+ * <a href="https://nodejs.org/api/">NodeJS Documentation</a>
+ * <a href="https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp">The Net Ninja: NodeJS</a>
+ 
 
+##### Vue.js:
+
+ * <a href="https://github.com/iamshaunjp/vuejs-playlist">Github Repo</a>
+ * <a href="https://v3.vuejs.org/guide/introduction.html">VueJS Documentation</a>
+ * <a href="https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa&index=1&frags=pl%2Cwn">The Net Ninja: VueJS 2</a>
+ * <a href="https://www.tutorialspoint.com/vuejs/index.htm">Tutorialspoint: VueJS</a>
