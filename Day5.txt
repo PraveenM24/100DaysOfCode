@@ -1,0 +1,9 @@
+Day 5:  September 30, 2020 / Node.js 
+
+Today's Progress:
+
+* Started basics of Vue.js
+* Recap about clients and servers in node.js
+
+Source: (The Net Ninja - Youtube)
+             (Tutorials Point - Website)
