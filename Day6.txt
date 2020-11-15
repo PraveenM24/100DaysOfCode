@@ -1,9 +1,0 @@
-Day 6:  October 6, 2020 / Vue.js 
-
-Today's Progress:
-
-* Vue Instances
-* Vue data and methods
-
-Source: (The Net Ninja - Youtube)
-             
