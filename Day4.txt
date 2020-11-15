@@ -1,8 +1,0 @@
-Day 4:  September 26, 2020 / Node.js 
-
-Today's Progress:
-
-* Client's and servers in node.js
-* Creating a server using node.js
-
-Source: (The Net Ninja - Youtube)
