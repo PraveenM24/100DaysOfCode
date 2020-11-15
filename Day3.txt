@@ -1,9 +1,0 @@
-Day 3:  September 25, 2020 / Node.js 
-
-Today's Progress:
-
-* Recap about node events module.
-* fs module and it's funcationlities
-* Directory operations in node
-
-Source: (The Net Ninja - Youtube)
