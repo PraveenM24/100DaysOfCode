@@ -13,7 +13,7 @@ I have decided to learn MERN stack (MongoDB, Express.js, React, Node.js) and add
 
 <br/>
 
-###### Softwares
+###### Text Editors
 
 ##### Node.js / Vue.js:
 
